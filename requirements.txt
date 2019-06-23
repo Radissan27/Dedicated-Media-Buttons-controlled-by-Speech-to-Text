@@ -1,0 +1,9 @@
+entrypoints==0.3
+flake8==3.7.7
+mccabe==0.6.1
+playsound==1.2.2
+PyAudio==0.2.11
+pycodestyle==2.5.0
+pyflakes==2.1.1
+SpeechRecognition==3.8.1
+word2number==1.1
